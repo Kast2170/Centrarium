@@ -1,5 +1,6 @@
 name: Jekyll Themes
 url: http://matt.harzewski.com
+baseurl: '/jekyllthemes/
 description: Insert tagline here
 
 permalink: /themes/:title/
