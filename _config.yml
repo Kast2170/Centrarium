@@ -1,6 +1,6 @@
 name: Jekyll Themes
 url: http://matt.harzewski.com
-baseurl: '/jekyllthemes/
+theme: Centrarium
 description: Insert tagline here
 
 permalink: /themes/:title/
